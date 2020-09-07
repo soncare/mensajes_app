@@ -1,0 +1,6 @@
+nbactions.xml
+personal token GitLab.txt
+target/classes/com/platzi/mensajes_app/Conexion.class
+target/classes/com/platzi/mensajes_app/Main.class
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
